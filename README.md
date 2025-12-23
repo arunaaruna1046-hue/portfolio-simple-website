@@ -1,7 +1,6 @@
-## Portfolio Website
+## My Portfolio
 
-This is a simple personal portfolio website created using **HTML** and **basic CSS**.  
-The project is designed to showcase a clean layout, basic styling, and fundamental web development concepts.
+Welcome to my portfolio website!This project is simple two-page site that includes home page and a contact page . It was created using HTML and basic CSS to provide a clean and straightforward user experience.
 
 ## Pages Included
 
@@ -13,7 +12,16 @@ The project is designed to showcase a clean layout, basic styling, and fundament
 - HTML 
 - CSS 
 
-##How to view
+## How to view
+
+You can access my portfolio website by visiting [link]feel free to explore the content and get in touch.
+
+# contributing
+
+If you'd like to contribute or suggest improvements,please feel free to open an issue or create a pull request.Your feedback is greatly appreciated.
+
+Thank you for visiting my portfolio website!
+
 
 - Clean and minimal design  
 - Easy navigation between pages  
